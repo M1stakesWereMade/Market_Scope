@@ -28,7 +28,7 @@ MarketScope предоставляет следующие возможности
 pip install -r requirements.txt
 ```
 ## Использование
-Запустите основной скрипт **`main.py`**:
+Запустите основной скрипт **`[main.py](main.py)`**:
 ```python
 python main.py
 ```
